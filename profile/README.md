@@ -1,6 +1,4 @@
-# Steff Beckers Tutoring
-
-## Class room
+## Classroom
 
 https://github.com/steffbeckers-tutoring/classroom
 
