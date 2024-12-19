@@ -2,9 +2,15 @@
 
 https://github.com/steffbeckers-tutoring/classroom
 
-## .NET Playground
+## Playgrounds
+
+### .NET
 
 https://github.com/steffbeckers-tutoring/dotnet-playground
+
+### DevOps
+
+https://github.com/steffbeckers-tutoring/devops-playground
 
 ## Steff's GitHub
 
